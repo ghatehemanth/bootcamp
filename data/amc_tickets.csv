@@ -1,0 +1,7 @@
+ticket_id,customer_name,service_type,issue_date,status
+1001,Rahul Sharma,Repair,2026-11-20,Open
+1002,Priya Nair,Installation,2026-11-21,In Progress
+1003,Arjun Rao,Maintenance,2026-11-22,Closed
+1004,Ananya Shetty,Repair,2026-11-23,Open
+1005,Karan Mehta,Installation,2026-11-24,Closed
+1006,Meera Pai,Maintenance,2026-11-25,In Progress
